@@ -2,9 +2,9 @@
 
 
 
-### Running Locally
+### The project runs locally
 
-Make sure you have [Node.js](http://nodejs.org/) installed.
+Make sure you have Node.js & View.js installed.
 
 1. clone or download the zip of the repository and extract it.
 2. open terminal (running the server using Node.js) from the location of the project.
