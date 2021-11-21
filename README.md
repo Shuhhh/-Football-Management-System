@@ -1,4 +1,8 @@
-# FullstackManagerLeague
+# Football Management System
+
+In this project you can view player/coaches/teams and games of the Superliga leaugu.
+You can also mark some of them as your favorite - to do it then you need to register before.
+The project programmed by Node.js (server side), View.js (client side) and the information was taken from an api called "SportMonks" and Microsoft Azure database.
 
 
 
